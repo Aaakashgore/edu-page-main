@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/edu-page-main/static/css/main.2db80b26.css",
+    "main.js": "/edu-page-main/static/js/main.8d349a49.js",
+    "static/js/787.23465116.chunk.js": "/edu-page-main/static/js/787.23465116.chunk.js",
+    "static/media/Akash Gore.pdf": "/edu-page-main/static/media/Akash Gore.adb8797822349cb847a8.pdf",
+    "static/media/rema thareja.pdf": "/edu-page-main/static/media/rema thareja.adb8797822349cb847a8.pdf",
+    "static/media/Introduction_to_Algorithms_Third_Edition_(2009).pdf": "/edu-page-main/static/media/Introduction_to_Algorithms_Third_Edition_(2009).2dde03cca53e5f9812c2.pdf",
+    "static/media/aboutus.jpg": "/edu-page-main/static/media/aboutus.f8a9fec059c3fdb30f15.jpg",
+    "static/media/python.png": "/edu-page-main/static/media/python.04dac758bee8a59c5833.png",
+    "static/media/c.jpg": "/edu-page-main/static/media/c.104ef3653dd8be2fa65f.jpg",
+    "static/media/cpp.png": "/edu-page-main/static/media/cpp.ca4b8ca59bd6fc085064.png",
+    "static/media/el.webp": "/edu-page-main/static/media/el.9e909e57df3fc164c3bd.webp",
+    "static/media/img.jpg": "/edu-page-main/static/media/img.735216d85a11cf396077.jpg",
+    "static/media/Program.jpg": "/edu-page-main/static/media/Program.d8cbc15160f6773a91b1.jpg",
+    "static/media/BE.png": "/edu-page-main/static/media/BE.217d96655dc68499ad8f.png",
+    "static/media/Algorithms.jpg": "/edu-page-main/static/media/Algorithms.6fbb460752edb0b7e20b.jpg",
+    "static/media/py.png": "/edu-page-main/static/media/py.6a5cbc319ab3ddf8ef92.png",
+    "static/media/rema.jpg": "/edu-page-main/static/media/rema.b74b45e43b9b6c2cebbe.jpg",
+    "static/media/java.webp": "/edu-page-main/static/media/java.92c09e0e38764ae49098.webp",
+    "static/media/cormen.jpg": "/edu-page-main/static/media/cormen.e6dd504ca2af5cd81077.jpg",
+    "static/media/code.png": "/edu-page-main/static/media/code.422d7c99b35b75e5afc6.png",
+    "index.html": "/edu-page-main/index.html",
+    "main.2db80b26.css.map": "/edu-page-main/static/css/main.2db80b26.css.map",
+    "main.8d349a49.js.map": "/edu-page-main/static/js/main.8d349a49.js.map",
+    "787.23465116.chunk.js.map": "/edu-page-main/static/js/787.23465116.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db80b26.css",
+    "static/js/main.8d349a49.js"
+  ]
+}
